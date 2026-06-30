@@ -20,7 +20,7 @@
 
 | **Category**       | **Technologies** |
 |---------------------|------------------|
-| **Languages**       | Python |
+| **Languages**       | Python |JS
 | **Frameworks**      | FastAPI · Django · Flask |
 | **Databases**       | PostgreSQL · Redis · MongoDB |
 | **Async & Queues**  | Celery · RabbitMQ · asyncio |
