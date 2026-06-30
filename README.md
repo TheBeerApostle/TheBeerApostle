@@ -1,6 +1,6 @@
 # 👋 Hey, I'm TheBeerApostle
 
-**Python Backend Engineer** · 4 years in the agency world  
+**Python Backend Developer** · 4 years in the coding world  
 🎓 Cybersecurity background (yes, I check for SQL injection in my sleep)  
 🏗️ Building backend systems that don't break when you blink
 
@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **4 years** in digital agencies — from MVP sprints to enterprise-level chaos  
+- 🏢 **4 years** in digital agency — from MVP sprints to enterprise-level chaos  
 - 🎓 Degree in **Cybersecurity** — I think about threats before they exist  
 - 🐍 **Python** is my comfort zone, but I'm not afraid to wander  
 - 🧠 I care about: clean architecture, type safety, and APIs that feel natural  
